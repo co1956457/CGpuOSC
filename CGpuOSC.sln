@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGpuOSC", "CGpuOSC\CGpuOSC.csproj", "{38D845F5-D504-413A-8893-31CFBF614DE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38D845F5-D504-413A-8893-31CFBF614DE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38D845F5-D504-413A-8893-31CFBF614DE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38D845F5-D504-413A-8893-31CFBF614DE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38D845F5-D504-413A-8893-31CFBF614DE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25593970-6D5E-4C93-AF01-5472C9C93473}
+	EndGlobalSection
+EndGlobal
