@@ -4,7 +4,7 @@
 ## 動作環境
 - VirtualCast との連携を前提に作成されています。  
 - [LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) の DLL ファイルを利用しています。  
-   - ※再頒布が認められている MPL 2.0 ライセンスのもとで、配布用 zip ファイルに DLL ファイルを同梱します（2024年8月14日時点 v0.9.3）。  
+   - ※再頒布が認められている MPL 2.0 ライセンスのもとで、配布用 zip ファイルに DLL ファイルを同梱します（2024年8月22日時点 v0.9.3）。  
 
    LibreHardwareMonitorLib.dll で CPU の「Core Max」と GPU の「Hot Spot」の値が取得できることが前提です。ハードウェア構成によってはこれらの値が取得できない場合があります。  
 
@@ -93,7 +93,7 @@ This program retrieves CPU and GPU temperatures and sends them to VirtualCast us
 ## System Requirements
 - Designed for integration with VirtualCast.  
 - Utilizes DLL files from [LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor).  
-   - Note: The DLL files included in the distribution ZIP are licensed under MPL 2.0, which permits redistribution (as of version 0.9.3, dated August 14, 2024).  
+   - Note: The DLL files included in the distribution ZIP are licensed under MPL 2.0, which permits redistribution (as of version 0.9.3, dated August 22, 2024).  
 
    The program assumes that LibreHardwareMonitorLib.dll can retrieve CPU's "Core Max" and GPU's "Hot Spot" values. Depending on your hardware configuration, these values may not be available.  
 
